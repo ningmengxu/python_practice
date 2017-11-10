@@ -1,4 +1,4 @@
-#使用 Python 如何生成 200 个激活码
+#使用 Python 如何生成 1000 个激活码
 import random
 import string
 FIELD = string.digits + string.letters
